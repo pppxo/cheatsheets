@@ -1,2 +1,2 @@
 # HTB-cheatsheet
-**Useful Cheatsheet**
+**Useful Cheatsheets from HTB Academy**
